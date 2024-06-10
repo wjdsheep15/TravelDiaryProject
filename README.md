@@ -9,3 +9,8 @@
 - Android SDK 31 API
 - DB: Firebase
 - Google map API
+
+### 개발 인원 3명
+- 류동명
+- 전창민
+- 정승근
